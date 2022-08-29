@@ -1,2 +1,2 @@
 from nginx
-RUN echo "Ben Chong in the house!" >> /usr/share/nginx/html/index.html
+RUN echo "Disco Time!!!" >> /usr/share/nginx/html/index.html

@@ -1,2 +1,2 @@
 from nginx
-RUN echo "Disco Time!!!" >> /usr/share/nginx/html/index.html
+RUN echo "This is a Prisma Cloud Demo Pipeline!" >> /usr/share/nginx/html/index.html
